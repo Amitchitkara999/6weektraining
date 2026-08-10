@@ -9,8 +9,8 @@
                     <div class="row">
                         <div class="col-xl-9 col-lg-9 col-md-10">
                             <div class="hero__caption">
-                                <span data-animation="fadeInLeft" data-delay="0.1s">AMITchitkara</span>
-                                <h1 data-animation="fadeInLeft" data-delay="0.4s">Amit</h1>
+                                <span data-animation="fadeInLeft" data-delay="0.1s">find your gym</span>
+                                <h1 data-animation="fadeInLeft" data-delay="0.4s">gym with us </h1>
                                 <a href="gym.php" class="border-btn hero-btn" data-animation="fadeInLeft" data-delay="0.8s">Gym</a>
                             </div>
                         </div>
